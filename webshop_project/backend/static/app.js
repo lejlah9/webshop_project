@@ -89,3 +89,5 @@ function setupEventListeners() {
         cartSidebar.classList.remove("open");
     });
 }
+
+// Frontend logic for product catalog
